@@ -220,4 +220,4 @@ def update_table(page_current, page_size, sort_by):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-#view rawapp.py hosted with ❤ by GitHub
+#view http://retailriali.pythonanywhere.com/ hosted with ❤ by PythonAnyWhere
